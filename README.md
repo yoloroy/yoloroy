@@ -1,9 +1,9 @@
 # Hi 👋, I'm Yoloroy
-### Student from Russia
+### Student from Penza
 
-- 🔭 I’m currently working on [RiderArcherGame](https://github.com/yoloroy/RiderArcherGame)
+- 🔭 I’m currently working on [Algos cource work - Avl tree](https://github.com/yoloroy/Algos_course_work_AVL_tree), planning to continue: [RiderArcherGame](https://github.com/yoloroy/RiderArcherGame)
 
-- 🌱 I’m currently learning **Android development, OOP**
+- 🌱 I’m currently learning **How to live happily**
 
 - 📫 How to reach me **slart2108@gmail.com**
 
